@@ -17,10 +17,10 @@ export default function Contact() {
                 <div className="flex flex-col items-center gap-6">
                     {/* Email */}
                     <a
-                        href="mailto:Zlin86135@gmail.com"
+                        href="mailto:zlin86135@gmail.com"
                         className="flex items-center gap-3 text-blue-600 hover:underline"
                     >
-                        <FaEnvelope /> Zlin86135@gmail.com
+                        <FaEnvelope /> zlin86135@gmail.com
                     </a>
 
                     {/* LinkedIn */}

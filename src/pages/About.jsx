@@ -47,6 +47,14 @@ export default function About() {
                     </div>
                 </div>
 
+                <a
+                    href="/resume.pdf"
+                    download
+                    className="inline-block mt-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+                >
+                    Download Resume
+                </a>
+
                 {/* Skills Section */}
                 <div>
                     <h2 className="text-2xl font-semibold mb-4">Skills</h2>
